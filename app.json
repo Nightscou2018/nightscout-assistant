@@ -1,0 +1,5 @@
+{
+  "name": "Nightscout Assistant",
+  "description": "A PHP app to return Google Assistant formatted JSON response",
+  "addons": []
+}
